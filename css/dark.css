@@ -51,6 +51,14 @@ footer {
 footer .getintouch strong {
     color: #fff;
 }
+.about_section{
+    color: #fff;
+    text-align: center;
+}
+.about_textColor{
+    color: #D3D3D3;
+}
+
 
 .full-menu {
     background: #1f1f1f;
