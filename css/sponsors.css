@@ -1,11 +1,11 @@
 .sponsor_back{
-    background-color: #232b2b;
-
+    background-image: url(../images/resister.png);
     text-align: center;
 }
 .our-sponsor-client-area {
   position: relative;
   z-index: 1;
+
 }
 
 .our-sponsor-area {
@@ -30,7 +30,7 @@
     -ms-flex-pack: center;
     justify-content: center;
     margin-left: -1px;
-    margin-top: -1px; 
+    margin-top: -1px;
     margin-right: 2.5%;
     margin-left: 2.5%;
   }
