@@ -1,25 +1,25 @@
 #faq a {
-    color: #55C1AA;
+    color: #00FFFF;
     transition: 0.5s;
     text-decoration: none;
 }
 
 #faq a:hover{
-    color: #55C1AA;
+    color: #00FFFF;
     outline: none;
     text-decoration: none;
 }
 
 #faq {
     padding: 80px 0 60px 0;
-    background:     #232b2b;
+    background:     #fff;
 }
 
 #faq h2 {
     font-size: 50px;
     font-weight: bold;
     margin-bottom: 10px;
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -29,7 +29,7 @@
 }
 
 #faq #faq-list li {
-    border-bottom: 2px solid #00FFC5;
+    border-bottom: 2px solid #FF4500;
 }
 
 #faq #faq-list a {
@@ -53,15 +53,15 @@
 
 #faq #faq-list p {
     margin-bottom: 20px;
-    color: #FFF;
+    color: #000;
 }
 
 #faq #faq-list a.collapse {
-    color: #00FFC5;
+    color: #00FFFF;
 }
 
 #faq #faq-list a.collapsed {
-    color: #FFF;
+    color: #000;
 }
 
 #faq #faq-list a.collapsed i::before {
@@ -74,7 +74,7 @@
 }
 
 #faq #faq2-list li {
-    border-bottom: 2px solid #00FFC5;
+    border-bottom: 2px solid #FF4500;
 }
 
 #faq #faq2-list a {
@@ -98,15 +98,15 @@
 
 #faq #faq2-list p {
     margin-bottom: 20px;
-    color: #FFF;
+    color: #000;
 }
 
 #faq #faq2-list a.collapse {
-    color: #63C132;
+    color: #00FFFF;
 }
 
 #faq #faq2-list a.collapsed {
-    color: #FFF;
+    color: #000;
 }
 
 #faq #faq2-list a.collapsed i::before {
